@@ -17,7 +17,7 @@ Ask about any stock price in plain English, and watch as the AI assistant fetche
 First, summon the project to your local realm:
 
 ```bash
-git clone https://github.com/${GITHUB_REPOSITORY}.git
+git clone https://github.com/hannibalxking/pydantic-stock-ai.git
 cd pydantic-stock-ai
 ```
 
